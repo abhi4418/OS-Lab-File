@@ -7,7 +7,7 @@ struct Process {
     int id, arrival_time, burst_time, completion_time, turnaround_time, waiting_time;
 };
 
-//hi therer
+//hi there 2
 
 void fcfs(vector<Process> processes, int n) {
     int time = 0, count = 0;
